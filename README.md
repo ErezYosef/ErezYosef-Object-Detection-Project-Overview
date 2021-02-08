@@ -1,4 +1,4 @@
-# Object-Detection-Project-Overview
+# Object Detection Project - Overview
 Project in *Computer Vision* Course 2020 at **Tel-Aviv University, Israel.**
 
 Overview of My model implementation and results
