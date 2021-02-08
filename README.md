@@ -1,7 +1,9 @@
 # Object Detection Project - Overview
 Project in *Computer Vision* Course 2020 at **Tel-Aviv University, Israel.**
 
-Overview of My model implementation and results
+Overview of my object detection model implementation and results
+
+:fire:  Buzzwords : `Deep-Learning`, `Computer-Vision`, `Object-Detection`, `CNN`, `PyTorch`
 
 ## Task Requirements:
 * Detection of toy buses in images.
