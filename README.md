@@ -20,11 +20,13 @@ blue, red).
 </p>
 
 
-## Relative Results
+## Detection Test Results
 * The results of all detectors (implemented by the course participants) were compared.
-* **My model achieved the highest F1 score** compare to all other implementations.
+* **My model achieved the highest F1 score** on Test dataset compare to all other implementations.
 
-The following graph shows the results of the course participants:
+The following graph shows the Test results of the course participants:
+
+Speed (s) versus accuracy (F1)
 
 [![results_graph](images/results.png)](#relative-results)
 <p align="center">
